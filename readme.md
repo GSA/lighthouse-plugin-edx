@@ -17,6 +17,6 @@ yarn add -D gsa/lighthouse-plugin-edx#main
 ### Usage
 >From within `wrapper` directory
 ```sh
-yarn lighthouse {url} --plugins=lighthouse-plugin-edx
+yarn lighthouse {url} --plugins=lighthouse-plugin-edx --only-categories=lighthouse-plugin-edx --view
 ```
 See [Lighthouse documentation](https://github.com/GoogleChrome/lighthouse/#cli-options) for additional options.
