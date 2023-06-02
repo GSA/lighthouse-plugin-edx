@@ -11,7 +11,8 @@
 Run the following to start of with the recipe as a template:
 
 ```sh
-git clone ...
+git clone git@github.com:GSA/lighthouse-plugin-edx.git
+cd lighthouse-plugin-edx
 ```
 
 Install and run just your plugin:
