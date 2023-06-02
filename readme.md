@@ -3,7 +3,7 @@
 ## Contents
 
 - `package.json` - declares the plugin's entry point (`plugin.js`)
-- `plugin.js` - instructs Lighthouse to run the plugin's own `preload-as.js` audit; describes the new category and its details for the report
+- `plugin.js` - instructs Lighthouse to run the plugin's own audits; describes the new category and its details for the report
 - `audits/*.js` - the new audits to run in addition to Lighthouse's default audits
 
 ## To develop as a plugin developer
