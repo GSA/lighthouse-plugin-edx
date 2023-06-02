@@ -8,7 +8,7 @@
 
 ## To develop as a plugin developer
 
-Run the following to start of with the recipe as a template:
+Run the following to pull down the plugin code:
 
 ```sh
 git clone git@github.com:GSA/lighthouse-plugin-edx.git
