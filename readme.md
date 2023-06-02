@@ -10,8 +10,7 @@
 ```sh
 mkdir edx-wrapper && cd edx-wrapper && \
 npm init -y && \
-yarn add -D lighthouse && \
-yarn add -D gsa/lighthouse-plugin-edx#main
+npm install -D lighthouse gsa/lighthouse-plugin-edx#main
 ```
 
 ### Usage
