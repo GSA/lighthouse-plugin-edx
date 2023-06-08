@@ -1,4 +1,4 @@
-# EDX Lighthouse plugin
+# GSA EDX Lighthouse plugin
 
 ## Contents
 
